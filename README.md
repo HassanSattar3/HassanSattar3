@@ -24,7 +24,6 @@
 ---
 
 ### 📊 **GitHub Stats**
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanSattar3&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanSattar3&layout=compact&theme=radical)
 
 ---
