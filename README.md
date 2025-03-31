@@ -28,4 +28,4 @@
 
 ---
 
-"False Knowledge is worse then false No Knowledge" 
+"False Knowledge is worse then No Knowledge" 
